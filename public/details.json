@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Raphael",
+    "language": "C#",
+    "details": {
+      "experience": "5 years",
+      "level": "Senior"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sophia",
+    "language": "Python",
+    "details": {
+      "experience": "3 years",
+      "level": "Intermediate"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Liam",
+    "language": "Java",
+    "details": {
+      "experience": "7 years",
+      "level": "Senior"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Emma",
+    "language": "JavaScript",
+    "details": {
+      "experience": "4 years",
+      "level": "Intermediate"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Noah",
+    "language": "C++",
+    "details": {
+      "experience": "6 years",
+      "level": "Senior"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Olivia",
+    "language": "Ruby",
+    "details": {
+      "experience": "2 years",
+      "level": "Junior"
+    }
+  },
+  {
+    "id": 7,
+    "name": "William",
+    "language": "Swift",
+    "details": {
+      "experience": "3 years",
+      "level": "Intermediate"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ava",
+    "language": "Go",
+    "details": {
+      "experience": "1 year",
+      "level": "Junior"
+    }
+  },
+  {
+    "id": 9,
+    "name": "James",
+    "language": "Rust",
+    "details": {
+      "experience": "2 years",
+      "level": "Junior"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Isabella",
+    "language": "PHP",
+    "details": {
+      "experience": "4 years",
+      "level": "Intermediate"
+    }
+  }
+]

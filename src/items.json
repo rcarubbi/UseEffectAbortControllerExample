@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Raphael",
+        "language": "C#"
+    },
+    {
+        "id": 2,
+        "name": "Sophia",
+        "language": "Python"
+    },
+    {
+        "id": 3,
+        "name": "Liam",
+        "language": "Java"
+    },
+    {
+        "id": 4,
+        "name": "Emma",
+        "language": "JavaScript"
+    },
+    {
+        "id": 5,
+        "name": "Noah",
+        "language": "C++"
+    },
+    {
+        "id": 6,
+        "name": "Olivia",
+        "language": "Ruby"
+    },
+    {
+        "id": 7,
+        "name": "William",
+        "language": "Swift"
+    },
+    {
+        "id": 8,
+        "name": "Ava",
+        "language": "Go"
+    },
+    {
+        "id": 9,
+        "name": "James",
+        "language": "Rust"
+    },
+    {
+        "id": 10,
+        "name": "Isabella",
+        "language": "PHP"
+    }
+]
